@@ -1,7 +1,7 @@
 PartialCredit::T
 Q1::True
 Q2::True
-Q3::
+Q3::True
 Q4::
 Q5::
 Q6::
