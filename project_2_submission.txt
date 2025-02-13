@@ -2,9 +2,9 @@ PartialCredit::T
 Q1::True
 Q2::True
 Q3::True
-Q4::
-Q5::
-Q6::
+Q4::True
+Q5::True
+Q6::True
 Q7::
 Q8::
 Q9::
